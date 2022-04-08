@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Melvin here! 
+
+Working as Data Engineer. 
+
+When I'm free, doing some side projects using React/Nextjs, Tailwindcss and other Fullstack stuffs. 
 
 <!--
 **mcamendoza1/mcamendoza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
