@@ -2,7 +2,7 @@
 
 Working as Data Engineer. 
 
-When I'm free, doing some side projects using React/Nextjs, Tailwindcss and other Fullstack stuffs. 
+On this side, currently learning front-end and backend stuffs.
 
 <!--
 **mcamendoza1/mcamendoza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
