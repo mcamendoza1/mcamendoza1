@@ -2,7 +2,7 @@
 
 Working as Data Engineer. 
 
-On this side, currently learning front-end and backend stuffs.
+Learning front-end and back-end stuffs. 
 
 <!--
 **mcamendoza1/mcamendoza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
